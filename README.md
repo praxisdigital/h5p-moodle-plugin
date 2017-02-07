@@ -1,4 +1,11 @@
-# H5P Moodle Plugin
+# H5P Moodle Plugin With CORE HACK
+
+Added in the hvp/lib.php
+
+###case FEATURE_BACKUP_MOODLE2:
+###return true;
+
+##
 
 This is the 1.0-rc version of the H5P plugin for Moodle. That means that this
 version is feature complete but you might encounter bugs or issues that will
